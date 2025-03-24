@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://localhost:4518';
+export const BASE_URL = 'https://vercel-880phou9v-ishwar12zs-projects.vercel.app';
